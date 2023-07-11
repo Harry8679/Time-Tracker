@@ -1,7 +1,7 @@
 const navigation = [
   {
     name: "YouTube",
-    href: "https://www.youtube.com/channel/UCqgi3TTpWwO22hIxzPOLhWw",
+    href: "https://www.youtube.com/@lahauteurdelaprofondeur1468",
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <path
@@ -14,7 +14,7 @@ const navigation = [
   },
   {
     name: "Facebook",
-    href: "https://www.youtube.com/channel/UCqgi3TTpWwO22hIxzPOLhWw",
+    href: "https://www.facebook.com/profile.php?id=100070065353546",
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <path
@@ -27,7 +27,7 @@ const navigation = [
   },
   {
     name: "Instagram",
-    href: "https://www.youtube.com/channel/UCqgi3TTpWwO22hIxzPOLhWw",
+    href: "https://www.instagram.com/harrymaccode/",
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
         <path
@@ -39,7 +39,7 @@ const navigation = [
     ),
   },
   {
-    name: "https://www.youtube.com/channel/UCqgi3TTpWwO22hIxzPOLhWw",
+    name: "https://www.youtube.com/@lahauteurdelaprofondeur1468",
     href: "#",
     icon: (props) => (
       <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
@@ -80,7 +80,7 @@ export default function Footer() {
         </div>
         <div className="mt-8 md:order-1 md:mt-0">
           <p className="text-center text-xs leading-5 text-gray-500">
-            &copy; 2023 Inovotek Coding Academy, Inc. All rights reserved.
+            &copy; 2023 EBANG MEZUI Consulting.
           </p>
         </div>
       </div>
